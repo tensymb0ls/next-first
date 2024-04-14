@@ -1,7 +1,7 @@
 const page = () => {
   return (
     <div className="min-h-screen">
-      <p> asdad sd</p>
+      <p> User page</p>
     </div>
   );
 };
